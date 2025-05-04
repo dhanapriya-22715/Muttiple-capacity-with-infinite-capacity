@@ -22,7 +22,8 @@ Queuing are the most frequently encountered problems in everyday life. For examp
 
 ## Experiment:
 ![image](https://github.com/user-attachments/assets/8bb217aa-f424-4829-8792-b5322737fc22)
-![image](https://github.com/user-attachments/assets/19706717-5372-4312-9d23-ccef45dd2d71)
+
+![image](https://github.com/user-attachments/assets/dcf68341-5ae3-4970-98f4-63a0af6416a2)
 
 ## Program
 ```
@@ -64,7 +65,7 @@ print("--------------------------------------------------------------")
 
 ```
 ## Output :
-![image](https://github.com/user-attachments/assets/dcf68341-5ae3-4970-98f4-63a0af6416a2)
+![image](https://github.com/user-attachments/assets/19706717-5372-4312-9d23-ccef45dd2d71)
 
 ## Result : 
 
